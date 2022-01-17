@@ -1,0 +1,11 @@
+Model Information:
+* title:	RTX 3060 TI - LOW POLY
+* source:	https://sketchfab.com/3d-models/rtx-3060-ti-low-poly-b65c5c0807be4ece9a95090d1a1794bb
+* author:	Up1x (https://sketchfab.com/alexlh2003)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RTX 3060 TI - LOW POLY" (https://sketchfab.com/3d-models/rtx-3060-ti-low-poly-b65c5c0807be4ece9a95090d1a1794bb) by Up1x (https://sketchfab.com/alexlh2003) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

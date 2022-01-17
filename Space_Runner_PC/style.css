@@ -1,0 +1,24 @@
+body{
+    
+}
+.TitleDiv{
+    position: absolute;
+    left: 52%;
+    top: 50%;
+    -webkit-transform: translate(-48%, -50%);
+    transform: translate(-48%, -50%);
+}
+.Title{
+    color: white;
+    margin-right: 40px;
+
+
+}
+.Score{
+    color: white;
+    margin-left: 15px;
+}
+.PlayAgain{
+    margin-left: 27px;
+    font-size: large;
+}
